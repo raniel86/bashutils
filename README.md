@@ -2,7 +2,7 @@
 A collection of file sh to simplify various operations.
 
 ## compress.sh
-Create a tar gz of the item passed as the first argument of the script.\s\s
+Create a tar gz of the item passed as the first argument of the script.
 
 Usage:
 ```bash
